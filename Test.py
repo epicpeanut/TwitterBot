@@ -43,7 +43,8 @@ Final_Prev = prev_Final.readlines()
 
 PreviouslyRecorded = 0
 
-
+randomString = random.choice(File_String)
+heldString = random.choice(Previous_String)
 
 def testForPrev (string):
     if string == randomString:
@@ -60,19 +61,26 @@ def testForPrev (string):
 
 
 heldString = ""
-randomString = random.choice(File_String)
-heldString = random.choice(Previous_String)
 
 
 
 
+true = 1
 
-
-while True:
-    if keyboard.is_pressed('d'):
+#while True:
+while true < 100:
+        if keyboard.is_pressed('d'):
             testForPrev(heldString)
-            time.sleep(300)
-            break
+            #keyboard.press('enter')
+            true = true + 1
+            randomString = random.choice(File_String)
+            time.sleep(5)
+        if true == 100:
+            true = 0
+
+
+
+    #break
 
 
 

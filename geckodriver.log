@@ -1,0 +1,978 @@
+1504609309601	geckodriver	INFO	geckodriver 0.18.0
+1504609309616	geckodriver	INFO	Listening on 127.0.0.1:49388
+1504609311568	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504609312479	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504609312974	Marionette	INFO	Enabled via --marionette
+[GPU 968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504609315034	Marionette	INFO	Listening on port 49394
+1504609315055	Marionette	INFO	Listening on port 49394
+1504609315257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504609315322	Marionette	DEBUG	loaded listener.js
+1504609315352	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504609315511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504609315511	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504609315738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609315786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609315790	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609315790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609315792	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609315792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609315794	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609315795	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609315796	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609315797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609315798	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609315799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609315800	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609315800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609315801	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609315910	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[GPU 968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4112] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4112] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504609428801	geckodriver	INFO	geckodriver 0.18.0
+1504609428817	geckodriver	INFO	Listening on 127.0.0.1:49473
+1504609430847	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504609431088	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504609431568	Marionette	INFO	Enabled via --marionette
+[GPU 5080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4920] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4948] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4948] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504609433773	Marionette	INFO	Listening on port 49479
+1504609433786	Marionette	INFO	Listening on port 49479
+1504609434097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504609434139	Marionette	DEBUG	loaded listener.js
+1504609434179	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504609434385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504609434386	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504609434641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609434777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609434781	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609434782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609434783	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609434784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609434785	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609434786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609434787	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609434787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609434788	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609434788	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609434789	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609434790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504609434791	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504609436053	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 5080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4920] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4508] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504610476081	geckodriver	INFO	geckodriver 0.18.0
+1504610476081	geckodriver	INFO	Listening on 127.0.0.1:50482
+1504610478141	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610478410	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610478882	Marionette	INFO	Enabled via --marionette
+[Parent 1120] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610481171	Marionette	INFO	Listening on port 50488
+1504610481179	Marionette	INFO	Listening on port 50488
+1504610481292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610481337	Marionette	DEBUG	loaded listener.js
+1504610481359	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610481557	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610481557	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610481816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610481955	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610481958	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610481958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610481959	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610481960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610481963	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610481963	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610481964	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610481965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610481966	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610481966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610481967	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610481968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610481969	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610482656	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 2416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504610491114	geckodriver	INFO	geckodriver 0.18.0
+1504610491114	geckodriver	INFO	Listening on 127.0.0.1:50560
+1504610493148	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610493403	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610493860	Marionette	INFO	Enabled via --marionette
+[GPU 3352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610495996	Marionette	INFO	Listening on port 50566
+1504610496002	Marionette	INFO	Listening on port 50566
+1504610496325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610496363	Marionette	DEBUG	loaded listener.js
+1504610496386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610496612	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610496612	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610496841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610496978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610496982	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610496983	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610496984	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610496985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610496986	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610496987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610496988	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610496988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610496989	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610496990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610496990	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610496991	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610496992	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610497782	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 3352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610506224	geckodriver	INFO	geckodriver 0.18.0
+1504610506224	geckodriver	INFO	Listening on 127.0.0.1:50637
+1504610508270	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610508519	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610508986	Marionette	INFO	Enabled via --marionette
+[GPU 1968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610511269	Marionette	INFO	Listening on port 50643
+1504610511281	Marionette	INFO	Listening on port 50643
+1504610511421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610511460	Marionette	DEBUG	loaded listener.js
+1504610511488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610511834	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610511834	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610512074	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610512136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610512141	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610512141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610512144	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610512145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610512146	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610512147	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610512148	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610512148	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610512149	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610512149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610512150	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610512150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610512151	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610512788	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 1968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+[Child 5048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610520936	geckodriver::marionette	ERROR	Failed to kill browser process
+1504610521094	geckodriver	INFO	geckodriver 0.18.0
+1504610521094	geckodriver	INFO	Listening on 127.0.0.1:50713
+1504610523119	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610523377	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610523837	Marionette	INFO	Enabled via --marionette
+[Child 4372] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4372] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610525982	Marionette	INFO	Listening on port 50719
+1504610525992	Marionette	INFO	Listening on port 50719
+1504610526329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610526374	Marionette	DEBUG	loaded listener.js
+1504610526401	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610526743	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610526743	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610527089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610527255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610527259	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610527259	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610527263	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610527263	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610527264	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610527265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610527266	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610527267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610527268	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610527268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610527270	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610527270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610527271	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610528043	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 1052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610536355	geckodriver::marionette	ERROR	Failed to kill browser process
+	INFO	Listening on 127.0.0.1:50791
+1504610538259	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610538507	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610538965	Marionette	INFO	Enabled via --marionette
+[GPU 2236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610541158	Marionette	INFO	Listening on port 50798
+1504610541163	Marionette	INFO	Listening on port 50798
+1504610541454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610541505	Marionette	DEBUG	loaded listener.js
+1504610541578	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610541750	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610541751	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610541960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610542020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610542023	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610542024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610542025	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610542025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610542026	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610542027	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610542029	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610542029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610542031	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610542031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610542032	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610542032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610542033	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610542162	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 2236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x840006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1504610550271	geckodriver::marionette	ERROR	Failed to kill browser process
+1504610550380	geckodriver	INFO	geckodriver 0.18.0
+1504610550396	geckodriver	INFO	Listening on 127.0.0.1:50871
+1504610552420	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610552755	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610553264	Marionette	INFO	Enabled via --marionette
+[Child 2560] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610555340	Marionette	INFO	Listening on port 50877
+1504610555350	Marionette	INFO	Listening on port 50877
+1504610555605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610555644	Marionette	DEBUG	loaded listener.js
+1504610555674	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610556053	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610556053	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610556303	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610556308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610556312	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610556313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610556315	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610556380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610556381	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610556382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610556383	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610556384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610556385	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610556385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610556386	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610556386	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610556387	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610557209	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[Parent 1700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610565341	geckodriver::marionette	ERROR	Failed to kill browser process
+1504610566065	geckodriver	INFO	geckodriver 0.18.0
+1504610566065	geckodriver	INFO	Listening on 127.0.0.1:50949
+1504610568100	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610568372	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610568846	Marionette	INFO	Enabled via --marionette
+[GPU 4412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610570955	Marionette	INFO	Listening on port 50955
+1504610570982	Marionette	INFO	Listening on port 50955
+1504610571297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610571342	Marionette	DEBUG	loaded listener.js
+1504610571375	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610571572	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610571573	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610571812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610571963	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610571966	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610571966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610571967	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610571968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610571969	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610571971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610571972	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610571973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610571974	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610571975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610571976	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610571976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610571977	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610572774	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 4412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4832] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4832] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504610584652	geckodriver	INFO	geckodriver 0.18.0
+1504610584667	geckodriver	INFO	Listening on 127.0.0.1:51026
+1504610586716	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610586979	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610587453	Marionette	INFO	Enabled via --marionette
+[GPU 4940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610589417	Marionette	INFO	Listening on port 51032
+1504610589464	Marionette	INFO	Listening on port 51032
+1504610589998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610590047	Marionette	DEBUG	loaded listener.js
+1504610590078	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610590474	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610590474	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610591151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610591154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610591158	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610591200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610591203	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610591204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610591207	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610591207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610591208	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610591208	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610591210	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610591210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610591211	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610591211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610591211	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610592394	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[Child 2616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610600539	geckodriver::marionette	ERROR	Failed to kill browser process
+1504610602390	geckodriver	INFO	geckodriver 0.18.0
+1504610602390	geckodriver	INFO	Listening on 127.0.0.1:51107
+1504610604446	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610604727	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610605208	Marionette	INFO	Enabled via --marionette
+1504610607390	Marionette	INFO	Listening on port 51113
+1504610607402	Marionette	INFO	Listening on port 51113
+1504610607589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610607627	Marionette	DEBUG	loaded listener.js
+1504610607653	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610607817	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610607817	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610608123	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610608206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610608209	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610608210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610608211	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610608211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610608213	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610608213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610608214	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610608215	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610608216	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610608217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610608218	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610608218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610608219	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610609122	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 4968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504610891230	geckodriver	INFO	geckodriver 0.18.0
+1504610891239	geckodriver	INFO	Listening on 127.0.0.1:51198
+1504610893259	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610893509	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610893974	Marionette	INFO	Enabled via --marionette
+[GPU 2632] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610896102	Marionette	INFO	Listening on port 51204
+1504610896108	Marionette	INFO	Listening on port 51204
+1504610896405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610896444	Marionette	DEBUG	loaded listener.js
+1504610896478	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610896700	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610896700	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610896996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610897103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610897107	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610897107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610897109	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610897109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610897111	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610897111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610897112	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610897112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610897113	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610897114	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610897115	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610897115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610897116	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610897937	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610917930	geckodriver	INFO	geckodriver 0.18.0
+1504610917938	geckodriver	INFO	Listening on 127.0.0.1:51274
+1504610919965	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610920190	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610920652	Marionette	INFO	Enabled via --marionette
+1504610922751	Marionette	INFO	Listening on port 51280
+1504610922781	Marionette	INFO	Listening on port 51280
+1504610923131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610923179	Marionette	DEBUG	loaded listener.js
+1504610923217	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610923534	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610923534	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610923901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610924008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610924012	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610924012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610924014	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610924015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610924017	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610924017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610924018	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610924019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610924020	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610924021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610924022	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610924022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610924023	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610924682	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 4408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2652] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610932814	geckodriver::marionette	ERROR	Failed to kill browser process
+1504610954580	geckodriver	INFO	geckodriver 0.18.0
+1504610954589	geckodriver	INFO	Listening on 127.0.0.1:51351
+1504610956625	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610956862	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610957345	Marionette	INFO	Enabled via --marionette
+1504610959449	Marionette	INFO	Listening on port 51357
+1504610959487	Marionette	INFO	Listening on port 51357
+1504610959753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610959798	Marionette	DEBUG	loaded listener.js
+1504610959836	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610960013	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610960013	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610960296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610960300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610960304	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610960305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610960306	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610960306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610960309	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610960310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610960312	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610960313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610960315	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610960315	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610960316	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610960317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610960318	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610961156	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 4460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3904] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610969333	geckodriver::marionette	ERROR	Failed to kill browser process
+1504610969482	geckodriver	INFO	geckodriver 0.18.0
+1504610969489	geckodriver	INFO	Listening on 127.0.0.1:51427
+1504610971506	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610971740	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610972200	Marionette	INFO	Enabled via --marionette
+1504610974218	Marionette	INFO	Listening on port 51433
+1504610974266	Marionette	INFO	Listening on port 51433
+1504610974624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610974665	Marionette	DEBUG	loaded listener.js
+1504610974694	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610974947	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610974947	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610975207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610975208	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610975213	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610975213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610975215	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610975216	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610975217	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610975218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610975219	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610975223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610975225	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610975227	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610975228	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610975229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610975230	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610975957	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 4948] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4272] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4272] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1504610984135	geckodriver::marionette	ERROR	Failed to kill browser process
+	INFO	Listening on 127.0.0.1:51501
+1504610986039	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504610986261	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504610986714	Marionette	INFO	Enabled via --marionette
+[GPU 4104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504610988800	Marionette	INFO	Listening on port 51508
+1504610988814	Marionette	INFO	Listening on port 51508
+1504610989168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504610989221	Marionette	DEBUG	loaded listener.js
+1504610989254	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504610989462	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504610989463	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504610989732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610989850	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610989854	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610989854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610989856	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610989856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610989858	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610989859	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610989860	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610989861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610989862	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610989862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610989864	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610989864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504610989865	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504610990656	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 4104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504611498981	geckodriver	INFO	geckodriver 0.18.0
+1504611498987	geckodriver	INFO	Listening on 127.0.0.1:51608
+1504611501022	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504611501272	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504611501739	Marionette	INFO	Enabled via --marionette
+[GPU 4432] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4556] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504611503913	Marionette	INFO	Listening on port 51614
+1504611503931	Marionette	INFO	Listening on port 51614
+1504611504139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504611504179	Marionette	DEBUG	loaded listener.js
+[GPU 4432] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3532] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504611512292	geckodriver	INFO	geckodriver 0.18.0
+1504611512301	geckodriver	INFO	Listening on 127.0.0.1:51646
+1504611514342	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504611514575	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504611515034	Marionette	INFO	Enabled via --marionette
+1504611517031	Marionette	INFO	Listening on port 51652
+1504611517083	Marionette	INFO	Listening on port 51652
+1504611517540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504611517583	Marionette	DEBUG	loaded listener.js
+1504611517609	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504611517988	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504611517988	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504611518278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611518326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611518330	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611518331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611518334	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611518335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611518337	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611518338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611518339	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611518339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611518340	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611518340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611518341	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611518341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611518342	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611519055	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 4484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3480] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3480] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x840006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1504611841601	geckodriver	INFO	geckodriver 0.18.0
+1504611841607	geckodriver	INFO	Listening on 127.0.0.1:51859
+1504611843644	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504611843900	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504611844416	Marionette	INFO	Enabled via --marionette
+[GPU 3376] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504611846816	Marionette	INFO	Listening on port 51865
+1504611846842	Marionette	INFO	Listening on port 51865
+1504611847264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504611847308	Marionette	DEBUG	loaded listener.js
+1504611847345	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504611847614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504611847614	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504611847921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611848120	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611848124	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611848124	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611848126	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611848126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611848127	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611848128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611848129	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611848130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611848131	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611848131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611848133	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611848133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611848135	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611848761	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611860281	Marionette	INFO	New connections will no longer be accepted
+1504611888486	geckodriver	INFO	geckodriver 0.18.0
+1504611888491	geckodriver	INFO	Listening on 127.0.0.1:51966
+1504611890514	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504611890753	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504611891238	Marionette	INFO	Enabled via --marionette
+1504611893343	Marionette	INFO	Listening on port 51972
+1504611893351	Marionette	INFO	Listening on port 51972
+1504611893638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504611893684	Marionette	DEBUG	loaded listener.js
+1504611893714	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504611893930	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504611893931	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504611894234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611894334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611894338	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611894339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611894340	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611894341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611894343	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611894344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611894345	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611894345	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611894347	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611894347	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611894348	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611894349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504611894351	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504611895574	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612062400	geckodriver	INFO	geckodriver 0.18.0
+1504612062415	geckodriver	INFO	Listening on 127.0.0.1:52071
+1504612064459	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504612064724	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504612065165	Marionette	INFO	Enabled via --marionette
+1504612067347	Marionette	INFO	Listening on port 52077
+1504612067359	Marionette	INFO	Listening on port 52077
+1504612067630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504612067673	Marionette	DEBUG	loaded listener.js
+1504612067702	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504612067929	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504612067930	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504612068192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612068316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612068322	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612068322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612068325	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612068325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612068327	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612068328	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612068329	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612068330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612068331	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612068332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612068333	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612068333	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612068334	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612069192	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612722980	geckodriver	INFO	geckodriver 0.18.0
+1504612722985	geckodriver	INFO	Listening on 127.0.0.1:52370
+1504612725023	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504612725270	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504612725721	Marionette	INFO	Enabled via --marionette
+1504612732405	geckodriver	INFO	geckodriver 0.18.0
+1504612732411	geckodriver	INFO	Listening on 127.0.0.1:52391
+1504612734450	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504612734682	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504612735149	Marionette	INFO	Enabled via --marionette
+[GPU 4220] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504612737116	Marionette	INFO	Listening on port 52397
+1504612737122	Marionette	INFO	Listening on port 52397
+1504612737595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504612737646	Marionette	DEBUG	loaded listener.js
+1504612737677	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504612738065	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504612738065	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504612738540	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612738706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612738711	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612738711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612738713	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612738714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612738717	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612738718	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612738719	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612738720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612738721	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612738722	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612738722	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612738723	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612738724	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612739208	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 4220] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4220] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4580] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xC40001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1504612781557	geckodriver	INFO	geckodriver 0.18.0
+1504612781564	geckodriver	INFO	Listening on 127.0.0.1:52504
+1504612783600	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504612783844	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504612784318	Marionette	INFO	Enabled via --marionette
+[GPU 2972] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504612786456	Marionette	INFO	Listening on port 52510
+1504612786464	Marionette	INFO	Listening on port 52510
+1504612786710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504612786751	Marionette	DEBUG	loaded listener.js
+1504612786778	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504612787003	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504612787004	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504612787235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612787236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612787241	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612787287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612787289	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612787289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612787292	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612787293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612787294	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612787294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612787295	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612787296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612787296	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612787297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612787298	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612788794	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 2972] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2972] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504612855399	geckodriver	INFO	geckodriver 0.18.0
+1504612855405	geckodriver	INFO	Listening on 127.0.0.1:52626
+1504612857431	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504612857668	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504612858115	Marionette	INFO	Enabled via --marionette
+[Child 2260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504612860482	Marionette	INFO	Listening on port 52632
+1504612860490	Marionette	INFO	Listening on port 52632
+1504612860540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504612860580	Marionette	DEBUG	loaded listener.js
+1504612860605	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504612860814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504612860814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504612861042	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612861172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612861176	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612861176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612861178	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612861179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612861180	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612861181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612861183	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612861183	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612861184	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612861185	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612861186	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612861186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612861187	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612861784	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 4928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 840] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504612926792	geckodriver	INFO	geckodriver 0.18.0
+1504612926799	geckodriver	INFO	Listening on 127.0.0.1:52762
+1504612928836	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504612929081	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504612929543	Marionette	INFO	Enabled via --marionette
+[GPU 2408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504612931662	Marionette	INFO	Listening on port 52768
+1504612931667	Marionette	INFO	Listening on port 52768
+1504612931948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504612931988	Marionette	DEBUG	loaded listener.js
+1504612932040	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504612932242	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504612932242	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504612932584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612932680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612932684	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612932684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612932686	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612932686	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612932688	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612932689	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612932691	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612932691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612932692	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612932694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612932696	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612932696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504612932697	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504612933524	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 2408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 1968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x840006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1504613069193	geckodriver	INFO	geckodriver 0.18.0
+1504613069201	geckodriver	INFO	Listening on 127.0.0.1:52872
+1504613071228	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504613071484	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504613071964	Marionette	INFO	Enabled via --marionette
+[Child 4924] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4924] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504613074431	Marionette	INFO	Listening on port 52878
+1504613074445	Marionette	INFO	Listening on port 52878
+1504613074871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504613074921	Marionette	DEBUG	loaded listener.js
+1504613074948	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504613075635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504613075635	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504613076195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613076197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613076201	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613076201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613076202	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613076203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613076205	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613076207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613076208	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613076209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613076210	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613076210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613076212	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613076212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613076213	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613076925	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 4440] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4440] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504613135663	geckodriver	INFO	geckodriver 0.18.0
+1504613135669	geckodriver	INFO	Listening on 127.0.0.1:52993
+1504613137699	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504613137927	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504613138404	Marionette	INFO	Enabled via --marionette
+1504613140488	Marionette	INFO	Listening on port 52999
+1504613140513	Marionette	INFO	Listening on port 52999
+1504613140825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504613140865	Marionette	DEBUG	loaded listener.js
+1504613140897	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504613141214	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504613141214	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504613141496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613141500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613141503	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613141503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613141505	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613141505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613141507	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613141507	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613141509	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613141510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613141514	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613141514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613141516	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613141516	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/login?lang=en"
+1504613141517	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+1504613142193	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/login?lang=en"
+[GPU 3460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
